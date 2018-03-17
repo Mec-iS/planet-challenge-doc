@@ -3,7 +3,7 @@ A collection of documents and links for Planet Challenge
 
 ## Documentation
 
-* [01-Overview](01-Overview.md)
+* [01 Overview: Satellite Data](01-Overview_Sat_Data.md)
 
 ## Notebooks
 
@@ -22,6 +22,10 @@ A collection of documents and links for Planet Challenge
 
 * Bird-I, [how do they use satellites imaging](https://blog.hibirdi.com/)
 * [Jupyter Notebooks and satellite images](https://www.linkedin.com/pulse/jupyter-notebooks-satellite-imagery-andrew-cutts/) and [this github account](https://github.com/acgeospatial)
+
+## Kaggles
+
+* ...
 
 ## Papers
 
