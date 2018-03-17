@@ -4,6 +4,7 @@ A collection of documents and links for Planet Challenge
 ## Documentation
 
 * [01 Overview: Satellite Data](01-Overview_Sat_Data.md)
+* [02 Overview: Product Design](02-Product_Design.md)
 
 ## Notebooks
 
