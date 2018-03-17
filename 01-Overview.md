@@ -8,7 +8,7 @@ For an example about how fully processed data displays, you can have a look one 
 The only requirements to access the full dataset is to have a AWS account and create an application token to use with AWS' client `boto3`. The Challenge provides similar data
 but provided by Planet and ESA both accessible through the PlanetExplorer Web application or command-line client. This repository requires credentials that will be provided during the project duration.
 
-#### Landsat 8, most poppular
+#### Landsat 8, most popular
 Landsat 8 is the best dataset to learn the basics. The [first example in the documentation](https://landsat-pds.s3.amazonaws.com/c1/L8/139/045/LC08_L1TP_139045_20170304_20170316_01_T1/index.html) provides
 [this preview](https://landsat-pds.s3.amazonaws.com/c1/L8/139/045/LC08_L1TP_139045_20170304_20170316_01_T1/LC08_L1TP_139045_20170304_20170316_01_T1_thumb_large.jpg). The preview is just a JPEG "thumbnail" of the real deal that are the different bands listed below in the page. To have a general idea of the data, see [paragraph 4.2 and below in this document](https://landsat.usgs.gov/landsat-8-l8-data-users-handbook-section-4).
 
