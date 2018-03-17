@@ -10,8 +10,9 @@ but provided by Planet and ESA both accessible through the PlanetExplorer Web ap
 
 #### Landsat 8, most poppular
 Landsat 8 is the best dataset to learn the basics. The [first example in the documentation](https://landsat-pds.s3.amazonaws.com/c1/L8/139/045/LC08_L1TP_139045_20170304_20170316_01_T1/index.html) provides
-[this preview](https://landsat-pds.s3.amazonaws.com/c1/L8/139/045/LC08_L1TP_139045_20170304_20170316_01_T1/LC08_L1TP_139045_20170304_20170316_01_T1_thumb_large.jpg). The preview is just a JPEG "thumbnail" of the real deal that are the different bands listed below in the page:
-![thumbnail](LC08_L1TP_139045_20170304_20170316_01_T1_thumb_small.jpg). To have a general idea of the data, see [paragraph 4.2 and below in this document](https://landsat.usgs.gov/landsat-8-l8-data-users-handbook-section-4).
+[this preview](https://landsat-pds.s3.amazonaws.com/c1/L8/139/045/LC08_L1TP_139045_20170304_20170316_01_T1/LC08_L1TP_139045_20170304_20170316_01_T1_thumb_large.jpg). The preview is just a JPEG "thumbnail" of the real deal that are the different bands listed below in the page. To have a general idea of the data, see [paragraph 4.2 and below in this document](https://landsat.usgs.gov/landsat-8-l8-data-users-handbook-section-4).
+
+![thumbnail](LC08_L1TP_139045_20170304_20170316_01_T1_thumb_small.jpg).
 
 In the "Files" list you can see a list of the available files from the different bands: "BQA" and "B1" to "B10". To know on which section of 
 the Electro-Magnetic Spectrum each band has been acquired you can read the [table here](https://landsat.usgs.gov/what-are-band-designations-landsat-satellites):
