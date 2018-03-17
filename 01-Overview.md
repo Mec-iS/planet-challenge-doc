@@ -2,7 +2,7 @@
 
 ### General view of the data
 
-Satellite platforms can acquire data with a moltitude of sensors. The ones involved in the Challenge are multi-band (or multi-spectral) optical sensors.
+Satellite platforms can acquire data with a multitude of sensors. The ones involved in the Challenge are multi-band (or multi-spectral) optical sensors.
 
 For an example about how fully processed data displays, you can have a look one of the different public repositories: [Landsat 8 published on AWS](https://aws.amazon.com/public-datasets/landsat/).
 The only requirements to access the full dataset is to have a AWS account and create an application token to use with AWS' client `boto3`. The Challenge provides similar data
