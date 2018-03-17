@@ -5,6 +5,11 @@ A collection of documents and links for Planet Challenge
 
 * [01-Overview](01-Overview.md)
 
+## Notebooks
+
+* Best source for GIS notebooks is [sgillies' gists](https://gist.github.com/sgillies)
+* How to easily access Landsat images using [rasterio (best library around)](https://gist.github.com/sgillies/7e5cd548110a5b4d45ac1a1d93cb17a3) 
+
 ## Blogs
 
 * Bird-I, [how do they use satellites imaging](https://blog.hibirdi.com/)
