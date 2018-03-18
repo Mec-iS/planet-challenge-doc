@@ -10,11 +10,11 @@ Each polygon is usually defined by a row number, a column number and a zoom leve
 
 ### User Experience
 * Tile-based: user defines an AoI based on tiles of interest
-* Pay by metrics: the UI proposes different kind of analytics, the user can decide which metrics to diplay on-demand. The tupling of tiles,
-time intervals (year, season, months) and metrics defines the pricing
+* Pay by metrics: the tupling of tiles (number and size), time intervals (year, season, months) defines the pricing (analitycs and indices can be pre-defined based on the business case)
 
 ### Frontend
 * Possibility of selecting tiles using Global Discrete Tiling System
+* Possiblity of defining a mix of metrics
 * ...
 
 ### Backend
@@ -25,6 +25,7 @@ time intervals (year, season, months) and metrics defines the pricing
 
 ### System, generic design principles
 * Google Cloud
+* Lambdas
 * Semantically Linked Datastore
 * Tiles' changes stored as DAG
 * "Everything is a graph"
