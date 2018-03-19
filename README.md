@@ -24,6 +24,7 @@ Add comments in row or open issues as you please.
 
 ## Blogs
 
+* Great data fusion [example from multiple satellite sources](https://www.planet.com/pulse/publications/sensor-fusion-of-planet-landsat-and-modis-data-for-unprecedented-land-surface-monitoring/)
 * Bird-I, [how do they use satellites imaging](https://blog.hibirdi.com/)
 * [Jupyter Notebooks and satellite images](https://www.linkedin.com/pulse/jupyter-notebooks-satellite-imagery-andrew-cutts/) and [this github account](https://github.com/acgeospatial)
 
