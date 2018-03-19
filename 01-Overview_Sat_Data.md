@@ -21,8 +21,8 @@ the Electro-Magnetic Spectrum each band has been acquired you can read the [tabl
 
 You can find each of these bands in the "Files" list. You can download the files with the `.TIF` extension, load them into `numpy` and read the full matrices with the given pixel values (BQA is 16bits, others are 8bits). To have the full optical image you need to overlap the Blue, Green and Red bands. The easiest way of visualizing this array in terms of a [picture is using QGIS](https://www.youtube.com/watch?v=ca6SM_HSeaI) or by creating a multi-band image using `GDAL` [command-line](https://gis.stackexchange.com/a/264923/65025).
 
-Every `.TIF` file is in reality a Geo-TIFF, every band-file is georeferenced, in other words you can load it and know the geographical position of every pixel in the image, given its Coordinates Reference System.
-
+Every `.TIF` file is in reality a Geo-TIFF, every band-file is georeferenced, in other words you can load it and know the geographical position of every pixel in the image, given its Coordinates Reference System. Public datasets usually provides a resolution of 30-60-90 meters per pixel; modern small satellites Low-Orbit commercial constellations can reach a resolution of 5-3 and even 1 meter per pixel (some providers state that can provide up to 30 cm per pixel, but this level may collide with the relative imprecision of defining the right global position of a feature at that precision). 
+.
 You can now probably understand a little better [this notebook full of great examples](https://gist.github.com/sgillies/7e5cd548110a5b4d45ac1a1d93cb17a3).
 
 ### Tranforming: ML
