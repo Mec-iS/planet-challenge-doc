@@ -37,3 +37,24 @@ Considering how Planet charges for its service:
 ### Oil storage and other connected to raw materials supply chain
 
 ### Construction sites monitoring
+
+## Possible generic activities
+
+### Life quality assessment in neighbourhoods
+
+Metrics:
+* quality of buildings: low maintenance / high maintenance
+* quality of roads: dirt/concrete, well/bad maintained
+* percentage of green areas
+* presence of playgrounds and commercial activities
+* presence of public buildings
+* number of people in the streets: high/low desirable neighbourhood (based on day/night time)
+* number of public transportation in the streets: "connectedness"
+* number of private vehicles in the streets: high/low desirable parking
+
+### Risk assessment
+
+Metrics:
+* morphology
+* biomes
+* quality of roads: dirt/concrete, well/bad maintained
