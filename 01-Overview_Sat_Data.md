@@ -32,12 +32,14 @@ Any signal that can be acquired from pixel or pixels-neibourhood level can be tr
 * number of boats
 * quality of roads
 
-Storage of this geo-referenced transformed data can be accomplished with SQL/No-SQL datastores or datawarehouses.
-
 ### Load: Data science
+
+Storage of this geo-referenced transformed data can be accomplished with SQL/No-SQL datastores or datawarehouses.
 
 Metrics have to be crossed with other sources of data for the same area and insights have to be produced.
 
+All the data is served using semantically linked APIs.
+
 ## Deliverables
 
-Accurate risk and/or quality predictions/assessments through large amounts of optical data and relative data fusion have to be produced and delivered to the customers using proper channels as a Web UI, but also Jupyter Notebooks or picture slideshows with plotted diagrams.
+Accurate risk and/or quality predictions/assessments through large amounts of optical data and relative data integration have to be produced and delivered to the customers using proper channels as a Web UI, but also Jupyter Notebooks or highligthed pictures slideshows with plotted diagrams.
