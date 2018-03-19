@@ -29,7 +29,7 @@ You can now probably understand a little better [this notebook full of great exa
 
 Any signal that can be acquired from pixel or pixels-neibourhood level can be translated into counters using Computer Vision techniques (CNN, ...) and translated into metrics. Example of georeferenced metrics per tile:
 * number of trees
-* number of boat
+* number of boats
 * quality of roads
 
 Storage of this geo-referenced transformed data can be accomplished with SQL/No-SQL datastores or datawarehouses.
