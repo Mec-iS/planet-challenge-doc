@@ -1,5 +1,7 @@
 # planet-challenge-doc
-A collection of documents and links for Planet Challenge
+A collection of documents and links for Planet Challenge.
+
+Add comments in row or open issues as you please.
 
 ## Documentation
 
