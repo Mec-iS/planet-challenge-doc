@@ -58,3 +58,7 @@ Metrics:
 * morphology
 * biomes
 * quality of roads: dirt/concrete, well/bad maintained
+
+
+## Links
+* [Controlling water reservoirs](http://www.esa.int/Our_Activities/Observing_the_Earth/Safeguarding_our_most_precious_resource_water) with sat images
