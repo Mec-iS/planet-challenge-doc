@@ -35,4 +35,5 @@ Add comments in row or open issues as you please.
 
 ## Papers
 
+* [Spotting agricultural patterns](http://arxiv.org/abs/1803.11259)
 * There is always the possibility of creating a [serious game](https://arxiv.org/pdf/1708.04176.pdf) (:
