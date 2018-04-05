@@ -9,6 +9,12 @@ Add comments in row or open issues as you please.
 * [02 Overview: Product Design](02-Overview_Product.md)
 * [03 Overview: Business cases](03-Overview_Business_Cases.md)
 
+## Papers
+
+* [The importance of field surveys in remotely sensed data analysis](https://arxiv.org/abs/1710.09342)
+* [Spotting agricultural patterns](http://arxiv.org/abs/1803.11259)
+* There is always the possibility of creating a [serious game](https://arxiv.org/pdf/1708.04176.pdf) (:
+
 ## Notebooks
 
 * [Longitude-Latitude to column-row in a raster](https://gist.github.com/ColinTalbert/d43fcf258a40dbe3c4f81deb6b225f92)
@@ -32,8 +38,3 @@ Add comments in row or open issues as you please.
 ## Kaggles
 
 * ...
-
-## Papers
-
-* [Spotting agricultural patterns](http://arxiv.org/abs/1803.11259)
-* There is always the possibility of creating a [serious game](https://arxiv.org/pdf/1708.04176.pdf) (:
