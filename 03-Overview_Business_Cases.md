@@ -20,6 +20,8 @@ Considering how Planet charges for its service:
 * _Scope_: traffic and logistic control. Incidents assesment
 * _Target Audience_: insurance companies and transports consortiums at state/region level
 
+### Pesticides usage monitoring
+
 ### Open-air quarries supervising
 
 ### Flying taxi and drone patrol (future)
