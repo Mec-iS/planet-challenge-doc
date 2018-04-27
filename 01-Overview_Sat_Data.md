@@ -23,6 +23,8 @@ You can find each of these bands in the "Files" list. You can download the files
 
 Every `.TIF` file is in reality a Geo-TIFF, every band-file is georeferenced, in other words you can load it and know the geographical position of every pixel in the image, given its Coordinates Reference System. Public datasets usually provides a resolution of 30-60-90 meters per pixel; modern small satellites Low-Orbit commercial constellations can reach a resolution of 5-3 and even [1 meter per pixel](https://www.planet.com/products/hi-res-monitoring/) (some providers state that can provide up to 30 cm per pixel, but this level may collide with the relative imprecision of defining the right global position of a feature). 
 
+For an overview about GeoTIFFs format and how it works you can read [A Handy Introduction to Cloud Optimized GeoTIFFs](https://medium.com/planet-stories/a-handy-introduction-to-cloud-optimized-geotiffs-1f2c9e716ec3)
+
 You can now probably understand a little better [this notebook full of great examples](https://gist.github.com/sgillies/7e5cd548110a5b4d45ac1a1d93cb17a3). Another cool [data fusion example and paper](https://www.planet.com/pulse/publications/sensor-fusion-of-planet-landsat-and-modis-data-for-unprecedented-land-surface-monitoring/).
 
 ### Tranforming: ML
