@@ -35,6 +35,10 @@ Add comments in row or open issues as you please.
 * [Jupyter Notebooks and satellite images](https://www.linkedin.com/pulse/jupyter-notebooks-satellite-imagery-andrew-cutts/) and [this github account](https://github.com/acgeospatial)
 * Insights about [farming-related startups by ESA](https://business.esa.int/news/european-data-driven-agtech-startups)
 
+## Libraries
+
+* Mapbox [Robosat](https://github.com/mapbox/robosat)
+
 ## Kaggles
 
 * ...
