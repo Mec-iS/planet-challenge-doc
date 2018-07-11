@@ -34,6 +34,7 @@ Add comments in row or open issues as you please.
 * Bird-I, [how do they use satellites imaging](https://blog.hibirdi.com/)
 * [Jupyter Notebooks and satellite images](https://www.linkedin.com/pulse/jupyter-notebooks-satellite-imagery-andrew-cutts/) and [this github account](https://github.com/acgeospatial)
 * Insights about [farming-related startups by ESA](https://business.esa.int/news/european-data-driven-agtech-startups)
+* [ImageAI Python lib](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606)
 
 ## Libraries
 
