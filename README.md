@@ -40,6 +40,7 @@ Add comments in row or open issues as you please.
 ## Libraries
 
 * Mapbox [Robosat](https://github.com/mapbox/robosat)
+* [NASA Remote Sensing Toolkit](https://software.nasa.gov/remotesensing/)
 
 ## Kaggles
 
