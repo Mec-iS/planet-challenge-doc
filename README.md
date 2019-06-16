@@ -14,6 +14,7 @@ Add comments in row or open issues as you please.
 * [The importance of field surveys in remotely sensed data analysis](https://arxiv.org/abs/1710.09342)
 * [Spotting agricultural patterns](http://arxiv.org/abs/1803.11259)
 * [Tracking and trajectories with GPS](https://arxiv.org/abs/1807.04639)
+* [Climate Change with Machine Learning](https://arxiv.org/pdf/1906.05433.pdf)
 * There is always the possibility of creating a [serious game](https://arxiv.org/pdf/1708.04176.pdf) (:
 
 ## Notebooks
